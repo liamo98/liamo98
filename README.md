@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A motivated learner interested in building scripts for automation. 
+Motivated learner and hobbyist developer interested in building scripts for automation. 
 
 <!--
 **liamo98/liamo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
