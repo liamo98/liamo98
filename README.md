@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Motivated learner and hobbyist developer interested in automation. 
+Motivated learner and hobbyist developer interested in building scripts for automation. 
+
+Main skills: Cloud security, DevOps, Cloud migration and deployment. 
 
 <!--
 **liamo98/liamo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
